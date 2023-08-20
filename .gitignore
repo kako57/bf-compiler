@@ -1,0 +1,5 @@
+*.o
+*.bf
+output
+com
+.depend
